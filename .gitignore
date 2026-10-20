@@ -1,0 +1,13 @@
+# Raw data is NDA-restricted and must never be committed
+data/
+data_unzipped/
+*.csv
+*.zip
+*.parquet
+*.xlsx
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
