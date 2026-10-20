@@ -1,0 +1,12 @@
+numpy
+pandas
+polars
+scipy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+umap-learn
+distfit
+yellowbrick
